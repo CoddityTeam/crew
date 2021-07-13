@@ -6,9 +6,9 @@ Nous recherchons des personnes **humbles** (cf. paragraphe précédent). Plus d'
 
 ![Screenshot](venez-come-vouzete.png)
 
-Eul process de recrutement Coddity : 
-- un entretien avec Louis
-- un entretien avec Matthieu et Christopher - les deux co-fondateurs de Coddity
-- un entretien plus avec Yoann ou Vincent - lead devs et experts en torture de candidats
+Le process de recrutement Coddity : 
+- un entretien avec Louis, pour discuter de tout et de rien
+- un entretien avec Matthieu et Christopher - les deux co-fondateurs de Coddity - pour discuter de tout et de rien avec majoritairement des questions-réponses sur Coddity et autour de la culture générale informatique
+- un entretien plus avec Yoann ou Vincent - lead devs et experts en torture de candidats - qui poseront pleins de questions sadiques, voire même feront du peer-programming avec vous
 
 Pour répondre aux offres, lisez les offres jusqu'au bout c'est indiqué. Est-ce que cette phrase est vraiment utile ? oui.
