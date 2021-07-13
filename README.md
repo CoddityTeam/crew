@@ -4,9 +4,10 @@ Nous aussi on met nos **offres d'emploi** dans les [issues](https://github.com/C
 
 Nous recherchons des personnes **humbles** (cf. paragraphe précédent). Plus d'infos sous l'infographie elle-même située ci-dessous.
 
-
-<img src="venez-come-vouzete.png" alt="venez-come-vouzete" width="200"/>
-
+<p align="center>
+<img src="venez-come-vouzete.png" alt="venez-come-vouzete" width="500"/>
+</p>
+                                                                      
 Le process de recrutement Coddity : 
 - un entretien avec Louis, pour discuter de tout et de rien
 - un entretien avec Matthieu et Christopher - les deux co-fondateurs de Coddity - pour discuter de tout et de rien avec majoritairement des questions-réponses sur Coddity et autour de la culture générale informatique
