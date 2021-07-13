@@ -1,4 +1,4 @@
-# On a copié "Le Monde" hihi
+# Viendez chez Coddity !
 
 Nous aussi on met nos **offres d'emploi** dans les [issues](https://github.com/CoddityTeam/crew/issues) sur un repo Github. Mais nous c'est mieux. 
 
