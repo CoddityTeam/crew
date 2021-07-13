@@ -4,7 +4,8 @@ Nous aussi on met nos **offres d'emploi** dans les [issues](https://github.com/C
 
 Nous recherchons des personnes **humbles** (cf. paragraphe précédent). Plus d'infos sous l'infographie elle-même située ci-dessous.
 
-![Screenshot](venez-come-vouzete.png)
+
+<img src="venez-come-vouzete.png" alt="venez-come-vouzete" width="200"/>
 
 Le process de recrutement Coddity : 
 - un entretien avec Louis, pour discuter de tout et de rien
