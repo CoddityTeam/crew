@@ -1,18 +1,19 @@
 # Viendez chez Coddity !
 
-Nous aussi on met nos **offres d'emploi** dans les [issues](https://github.com/CoddityTeam/crew/issues) sur un repo Github. Mais nous c'est mieux. 
+Nos **offres d'emploi** sont disponibles dans les [issues](https://github.com/CoddityTeam/crew/issues).
 
-Nous recherchons des personnes **humbles** (cf. paragraphe précédent). Plus d'infos sous l'infographie elle-même située ci-dessous et dans les issues.
+Nous recherchons des personnes **humbles**, **fiables**, **curieuses** et **pointues**.
                                                                 
-Le process de recrutement Coddity : 
-- un entretien avec Matthieu, pour discuter de tout, de rien et un peu sur les  ordinateurs
-- un entretien plus avec Yoann ou Vincent qui poseront pleins de questions sur votre culture informatique
-- un entretien avec Christopher, pour discuter de tout et de rien avec majoritairement des questions-réponses sur Coddity
-Le tout dans la joie, la bonne humeur et sans épreuve sportive.
+Notre processus de recrutement :
+1. un appel rapide avec Corentin pour synthétiser votre recherche et notre fonctionnement
+2. un entretien 1 avec Matthieu ou Chris, pour faire connaissance, creuser vos enjeux pro et aborder une première évaluation technique (culture générale informatique)
+3. un entretien 2 avec Lord Jeannine pour qualifier votre maîtrise technique et vos capacités à évoluer
 
-Pour répondre aux offres, lisez les offres jusqu'au bout c'est indiqué. Est-ce que cette phrase est vraiment utile ? oui.
+Le tout dans la bienveillance et la transparence.
+
+L'email pour candidater est indiqué en bas de l'offre qui vous intéresse.
 
 <img src="venez-come-vouzete.png" alt="venez-come-vouzete" width="500"/>
 
-Avec le code BONUS2022, vous pouvez même avoir un quatrième entretien bonus si vous le souhaitez ! 
+Avec le code BONUS2023, vous pouvez même avoir un quatrième entretien si vous le souhaitez ! 
 
